@@ -106,9 +106,6 @@ Frontend default URL: `http://localhost:5173`
 
 Backend (`backend/.env.example`):
 
-```env
-DATABASE_URL=sqlite:///./hrms.db
-```
 
 Frontend (`frontend/.env.example`):
 
